@@ -1,6 +1,8 @@
 # 2024-07-18 ~ 2024-07-23 DS2기 DataThon<br>
 1조 김학준, 김찬영, 이찬우
 
+DATASET
+https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings/data
 
 - 데이터셋 설명
     - **신규 회원의 첫 여행 국가 예측 데이터셋**
